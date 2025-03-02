@@ -51,12 +51,3 @@ MrChecker.live provides a **secure and accurate** way to validate credit cards f
 🚀 **Start checking now at 👉 [MrChecker.live](https://mrchecker.live)**  
 
 ---
-
-## 📌 **Steps to Publish This README on GitHub**
-1. **Go to your GitHub repository.**  
-2. **Click "Add file" → "Create new file".**  
-3. **Name it `README.md`.**  
-4. **Paste the above Markdown content** into the file.  
-5. **Click "Commit new file".**  
-
-Now, your GitHub repository will display this **fully formatted and clickable** README.md with a **backlink to MrChecker.live**! 🚀  
